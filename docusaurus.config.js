@@ -119,7 +119,7 @@ const config = {
     ],
     Contributors: {
       owner: "LunarVim",
-      repos: ["LunarVim.org"],
+      repos: ["LunarVim", "LunarVim.org", "starter.lvim"],
     }
   },
 
